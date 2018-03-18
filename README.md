@@ -2,10 +2,10 @@
 
 ### This crawler uses python to build an excel sheet with all the results of BIT cse department
 
-### All documentation is in the program
+### Documentation will be added soon
 
 # dependencies
 
-## requests module
-## openpyxl
-## beautiful soup (bs4 module)
+* requests module
+* openpyxl module
+* beautiful soup (bs4 module)
